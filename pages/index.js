@@ -51,6 +51,11 @@ export default function Home() {
         Viver não daquilo que posso ver, mas daquilo que posso sentir.
         <br /> Ainda no pão, mas o tempo traz crescimento. O caminho já está
         diante de mim.
+        <br />
+        <br /> e duas sentenças me foram sussurradas ao longo do tempo: O
+        espírito da covardia jamais encontrou abrigo em meu ser, e se agora me
+        encontro aqui, é porque não fui concebido para conhecer o infinito
+        dentro de meros limites.
       </p>
       <img
         src="/walk.gif"
